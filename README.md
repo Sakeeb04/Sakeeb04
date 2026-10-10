@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B59B6,100:3498DB&height=200&section=header&text=Sakeeb%20Anais&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20IT%20Graduate&descAlignY=55&descSize=18" width="100%" alt="Colorful profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B59B6,100:3498DB&height=200&section=header&text=Sakeeb%20&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20Developer%20%7C%20IT%20Graduate&descAlignY=55&descSize=18" width="100%" alt="Colorful profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sakeeb+%F0%9F%91%8B;Junior+Web+Developer+%F0%9F%92%BB;Learning+Full+Stack+Development+%F0%9F%9A%80;Turning+Ideas+Into+Websites+%E2%9C%A8" alt="Typing animation"/>
 
