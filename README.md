@@ -16,6 +16,7 @@
     height="150"
     style="border-radius: 50%; object-fit: cover;"
   />
+  <br>
   <img src="https://img.shields.io/github/followers/Sakeeb2003?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
 </p>
 
