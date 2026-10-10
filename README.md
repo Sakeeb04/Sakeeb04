@@ -9,6 +9,13 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Sakeeb2003&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <div align="center">
+  <img
+    src="https://github.com/Sakeeb2003.png"
+    alt="Sakeeb's GitHub Profile Picture"
+    width="150"
+    height="150"
+  />
   <img src="https://img.shields.io/github/followers/Sakeeb2003?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
 </p>
 
