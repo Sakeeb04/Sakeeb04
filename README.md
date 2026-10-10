@@ -15,6 +15,7 @@
     alt="Sakeeb's GitHub Profile Picture"
     width="150"
     height="150"
+    border-radius="50"
   />
   <img src="https://img.shields.io/github/followers/Sakeeb2003?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
 </p>
