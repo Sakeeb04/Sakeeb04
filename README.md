@@ -46,6 +46,23 @@
 
 ---
 
+## 🌐 My Portfolio
+
+<div align="center">
+
+  <a href="https://sakeeb.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Visit_My_Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Visit My Portfolio"
+    />
+  </a>
+
+  <p>
+    Explore my projects, technical skills, and web development journey.
+  </p>
+
+</div>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -120,7 +137,7 @@ Responsive web pages and UI designs created while learning frontend development.
 </a>
 
 <!-- Replace YOUR_LINKEDIN_USERNAME with your real LinkedIn username -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/abdul-munaf-sakeeb/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0qQoZiYBTU%2BTlL18RJZ3dA%3D%3D">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
