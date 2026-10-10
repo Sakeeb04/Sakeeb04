@@ -8,14 +8,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sakeeb+%F0%9F%91%8B;Junior+Web+Developer+%F0%9F%92%BB;Learning+Full+Stack+Development+%F0%9F%9A%80;Turning+Ideas+Into+Websites+%E2%9C%A8" alt="Typing animation"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Sakeeb2003&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
   <div align="center">
   <img
     src="https://github.com/Sakeeb2003.png"
     alt="Sakeeb's GitHub Profile Picture"
     width="150"
     height="150"
-    style="border-radius:50%; object-fit: cover;"
+    style="border-radius: 50%; object-fit: cover;"
   />
   <img src="https://img.shields.io/github/followers/Sakeeb2003?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
 </p>
